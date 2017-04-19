@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An Amazon like web store.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibad1/BAmazon.git"
+  },
+  "keywords": [
+    "Amazon"
+  ],
+  "author": "Ibad Aslam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibad1/BAmazon/issues"
+  },
+  "homepage": "https://github.com/ibad1/BAmazon#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  }
+}
